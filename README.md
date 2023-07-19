@@ -26,12 +26,12 @@ This small project with three exercises is part of the Scientific Programming As
 
 ## Task 08: 
 
-[Task08](Task08/README.md)
+[Task08](Task08_ASTM_G173_spectrum/README.md)
 
 ## Task 09: 
 
-[Task09](Task09/README.md)
+[Task09](Task08_ASTM_G173_spectrum/README.md)
 
 ## Task 10: 
 
-[Task10](Task10/README.md)
+[Task10](Task10_your_own_exercise/README.md)
