@@ -24,14 +24,14 @@ This small project with three exercises is part of the Scientific Programming As
 
 ## Task 01 - 07: Done in the live programming exam.
 
-## Task 08: 
+## Task 08: Numerical Integration of the ASTM G173 Irradiance Spectra¶
 
 [Task08](Task08_ASTM_G173_spectrum/README.md)
 
-## Task 09: 
+## Task 09: Worldwide  CO2 data from EDGAR database
 
-[Task09](Task08_ASTM_G173_spectrum/README.md)
+[Task09](Task09_EDGAR_C02_database/README.md)
 
-## Task 10: 
+## Task 10: Your Own Task
 
 [Task10](Task10_your_own_exercise/README.md)
