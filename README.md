@@ -22,7 +22,9 @@ This small project with three exercises is part of the Scientific Programming As
 
 [Task00](Task00/README.md)
 
-## Task 01 - 07: Done in the live programming exam.
+## Task 01 - 07: 
+
+Done in the live programming exam.
 
 ## Task 08: Numerical Integration of the ASTM G173 Irradiance Spectra¶
 
